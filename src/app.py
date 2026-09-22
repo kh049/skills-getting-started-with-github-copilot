@@ -39,6 +39,18 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    "Tennis Club": {
+        "description": "Learn tennis fundamentals and play friendly matches",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Track and Field Club": {
+        "description": "Train in running, jumping, and throwing events",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": []
+    },
     "Soccer Club": {
         "description": "Practice soccer skills and compete in friendly matches",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
@@ -54,6 +66,18 @@ activities = {
     "Art Club": {
         "description": "Explore drawing, painting, and other visual arts",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques and create visual stories",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Creative Writing Club": {
+        "description": "Write stories, poetry, and other creative works",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
         "participants": []
     },
@@ -73,6 +97,18 @@ activities = {
         "description": "Explore scientific topics through experiments and projects",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging problems and explore mathematical ideas",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots for creative challenges",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
         "participants": []
     }
 }
