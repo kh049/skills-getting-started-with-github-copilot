@@ -81,12 +81,6 @@ activities = {
         "max_participants": 15,
         "participants": []
     },
-    "Drama Club": {
-        "description": "Build acting skills and perform in school productions",
-        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
-        "participants": []
-    },
     "Debate Club": {
         "description": "Develop public speaking, research, and argumentation skills",
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
