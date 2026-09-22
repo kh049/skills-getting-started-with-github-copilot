@@ -62,7 +62,7 @@ activities = {
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": []
-    },
+    }, 
     "Art Club": {
         "description": "Explore drawing, painting, and other visual arts",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
